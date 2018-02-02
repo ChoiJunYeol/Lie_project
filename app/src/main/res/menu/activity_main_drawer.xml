@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="HOME" />
+        <item
+            android:id="@+id/GuestInfo"
+            android:icon="@drawable/kakao_default_profile_image"
+            android:title="회원 정보" />
+    </group>
+
+    <item android:title="기타 서비스">
+        <menu>
+            <item
+                android:id="@+id/LieCheck"
+                android:icon="@drawable/ic_menu_share"
+                android:title="거짓말 탐지기" />
+            <item
+                android:id="@+id/HeartCheck"
+                android:icon="@drawable/ic_menu_send"
+                android:title="심박수 실시간 조회" />
+            <item
+                android:id="@+id/Alarm"
+                android:icon="@drawable/ic_menu_send"
+                android:title="알람" />
+
+            <item
+                android:id="@+id/Logout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="로그아웃" />
+        </menu>
+    </item>
+
+</menu>

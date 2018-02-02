@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LIE EA</string>
+    <string name="title_activity_main">Lie_EA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="FACEBOOK_APP_ID">1525232360886400</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">e1c96145ab483b7b67e673e4137c41ff</string>
+</resources>
